@@ -11,11 +11,9 @@ You will find clear explanations, practical examples, and organized sections cov
 <details>
   <summary><h3>Basic information</h3></summary>
 
-  🧩 Types of scripts & testing
+  🧩 Types of scripts, testing & debugging
   
   🖥️ HUDs (Heads-Up Displays)
-
-  🐞 Debugging
 
   📍 Script locations
   
