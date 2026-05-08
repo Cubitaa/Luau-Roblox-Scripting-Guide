@@ -1,3 +1,27 @@
+# 💬 Comments
+Lua has two main ways to write comments inside code:
+
+🟩 **Single-line comments (`--`),** used for short explanations on one line.
+```lua
+-- This is a single-line comment
+local Part = game.Workspace.Part -- This gets the part from Workspace
+```
+
+🟦 **Multi-line comments (`--[[ ]]`),** Used for longer explanations or notes.
+```lua
+--[[
+This is a multi-line comment.
+You can write multiple lines here.
+
+It is useful for:
+- Explaining complex code
+- Temporarily disabling code
+- Writing documentation inside scripts
+]]
+```
+
+---
+
 # `Print` and `Warn` Function
 The `print()` and `warn()` function is used to display values in the output window.
 If you want to show the quotation marks (`" "`), you have to use the simple ones (`' '`) or using `\`
