@@ -1,4 +1,4 @@
-# Luau-Roblox-Scripting-Guide
+# Luau Roblox Scripting Guide
 
 This repository is a structured guide to learning scripting in Roblox Studio using Luau. It is designed to help beginners understand the fundamentals step by step, from basic concepts to more advanced systems.
 
@@ -6,7 +6,7 @@ You will find clear explanations, practical examples, and organized sections cov
 
 ---
 
-## Index
+# Index
 
 <details>
   <summary><h3>Basic information</h3></summary>
