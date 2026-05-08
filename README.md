@@ -11,36 +11,36 @@ You will find clear explanations, practical examples, and organized sections cov
 <details>
   <summary><h3>Basic information</h3></summary>
 
-  🧩 Types of scripts, testing & debugging
-  
-  🖥️ HUDs (Heads-Up Displays)
+  **[🧩 Types of scripts, testing & debugging](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/BasicInfo/Scripts%2Ctesting%26debugging.md)**  
 
-  📍 Script locations
+  **[🖥️ HUDs (Heads-Up Displays)](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/BasicInfo/HUDs.md)**
+
+  **[📍 Script locations](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/BasicInfo/ScriptLocations.md)**
   
 </details>
 
 <details>
   <summary><h3>Scripting Basics</h3></summary>
-
-  🖨️ print & warn
   
-  ⏳ wait & task.wait
+  **[🖨️ Comments, print & warn](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Print%26Warn.md)**
   
-  🧱 Properties
+  **[⏳ wait & task.wait](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Wait%26Task.Wait.md)**
   
-  📦 Variables
+  **[🧱 Properties](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Properties.md)**
   
-  🔀 If statements (if, elseif & else)
+  **[📦 Variables](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Variables.md)**
   
-  🔁 Loops
+  **[🔀 Conditional statements (if, elseif & else)](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/ConditionalStatements.md)**
   
-  🧬 Instance
+  **[🔁 Loops](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/LoopStructures.md)**
   
-  ⚙️ Functions
+  **[🧬 Instances](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Instances.md)**
   
-  📡 Common events
+  **[⚙️ Functions](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Functions.md)**
   
-  ↩️ Returning values
+  **[📡 Common events](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/BasicInfo/ScriptingBasics/CommonEvents.md)**
+  
+  **[↩️ Returning values](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/BasicInfo/ScriptingBasics/CommonEvents.md)**
 
 </details>
 
