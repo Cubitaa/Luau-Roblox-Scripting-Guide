@@ -1,7 +1,11 @@
-# 🖨️ Print function
-
-The **print** function is used to display values in the output window.
+# `Print` and `Warn` Function
+The `print()` and `warn()` function is used to display values in the output window.
 If you want to show the quotation marks (`" "`), you have to use the simple ones (`' '`) or using `\`
+
+
+## 🖨️ Print function
+
+The `print()` function display the values highlighted in white, making it useful for debugging or tracking events.
 
 ```lua
 print("Text here") -- Text here
@@ -26,12 +30,18 @@ print(2) -- this prints the number "2"
 
 ---
 
-# ⚠️ Warn function
+## ⚠️ Warn function
 
-The **warn** function works similarly to print, but its output appears highlighted in orange, making it useful for warnings or important notices.
+The `warn()` function works similarly to print, but its output appears highlighted in orange, making it useful for warnings or important notices.
 
 ```lua
-warn("This message was warned")
+warn("This message was warned") -- This message was warned
+
+local w = "warn"
+
+warn("This is a 'test'") -- This is a "test"
+warn("Another \"test\" for a ") -- Another "test"
+warn(w) -- warn 
 ```
 Example of the print and warn function:
 
@@ -39,7 +49,7 @@ Example of the print and warn function:
 
 ---
 
-# 🔗 Combining text with variables (print & warn)
+## 🔗 Combining text with variables (print & warn)
 
 You can combine text and variables in a `print` or `warn` using concatenation (`..` in Lua).
 
