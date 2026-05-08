@@ -30,6 +30,8 @@ So instead of repeating the full path, you store it in a variable.
 
 In Luau, variables are created using local, usually at the top of the script:
 
+> "local print" and "local warn" are not permited
+
 ```lua
 local Part = game.Workspace.City.Street.House.Part -- Now the code becomes cleaner
 
