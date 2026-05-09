@@ -22,7 +22,7 @@ You will find clear explanations, practical examples, and organized sections cov
 <details>
   <summary><h3>Scripting Basics</h3></summary>
   
-  **[🖨️ Comments, print & warn](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Print%26Warn.md)**
+  **[🖨️ Comments, print & warn](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Wait%26Task.Wait.md)**
   
   **[⏳ wait & task.wait](https://github.com/Cubitaa/Luau-Roblox-Scripting-Guide/blob/main/ScriptingBasics/Wait%26Task.Wait.md)**
   
